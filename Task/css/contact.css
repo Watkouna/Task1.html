@@ -1,0 +1,36 @@
+.reason {
+   text-align: left;
+   vertical-align: left;
+   width: 480px;
+   font-size: 1.5rem;
+   margin: 10px;
+  }
+  .submit input {
+  background-color: #0000FF;
+  margin-left: 200px;
+  }
+  .submit input:hover {
+    opacity: 0.6;
+  }
+  .submit .point{
+    background-color: #D3D3D3;
+  }
+  .submit .point input{
+    color: #000000;
+  }
+.Contact {
+  font-size:1rem;
+  color: #000000;
+  background-color: #FFB6C1;
+  }
+.side_menu ul li a.activemenu {
+  color: #000000;
+  background-color: #D3D3D3;
+  opacity: 0.9;
+}
+.side_menu .point{
+  background-color: #FCECEC;
+}
+.side_menu .point a{
+  color: #4D4D4D;
+}
