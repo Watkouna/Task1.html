@@ -94,9 +94,9 @@ ul.top_menu {
   line-height: 2;
 }
 .footer{
-  width: 100%;
-  height: 100px;
-  position: fixed;
+  width: 980px;
+  height: 75px;
+  position: relative;
   bottom: 0;
   background-color: #4D4D4D;
   display: table;
